@@ -1,0 +1,28 @@
+body {   
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+
+#titulo {
+    margin-left: 1%;
+    text-align:center;
+    color: tomato;
+}
+
+#input {
+    margin-left: 2%;
+    text-align: center;
+    color: salmon;
+}
+
+#Filmes {
+    margin-left: 3%;
+    text-align: center;
+    color: salmon;
+}
+
+.center {
+    text-align: center;
+    color: peru;
+}

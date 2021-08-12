@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:peachpuff
+}
+
+#titulo {
+
+    color: peru;
+    margin-left: 2%;
+}
+
+.text::first-letter {
+    color: red;
+    font-size: 70px;
+}
+
+.text {
+    color: indianred;
+    font-size: 15px;
+} 
+
+a:link {
+    color: darkgreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: maroon;
+    background-color: transparent;
+    
+  }
+  
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+
+  }
+  
+  a:active {
+    color: blue;
+    background-color: transparent;
+ }
+
+ .link{
+     margin-left: 2%;
+ }
